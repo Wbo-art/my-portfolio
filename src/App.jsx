@@ -338,9 +338,7 @@ function App() {
           <a className="btn-primary" href="mailto:lolibon1.mamo@gmail.com">
             Send Me an Email ↗
           </a>
-          <p className="contact-note">
-            Replace the placeholder email with your professional email address.
-          </p>
+        
         </section>
       </main>
 
