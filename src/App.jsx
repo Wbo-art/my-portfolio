@@ -112,7 +112,7 @@ function App() {
             </div>
 
            <div className="hero-socials">
-  <a href="https://github.com/Wbo-art" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Wbo-art/payment-integration-api.git" target="_blank" rel="noopener noreferrer">
     GitHub ↗
   </a>
 
