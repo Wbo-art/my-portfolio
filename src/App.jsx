@@ -265,7 +265,7 @@ function App() {
 
                 <div className="project-bottom">
                   <span className="project-status">{project.status}</span>
-                  <a href="https://github.com/Wbo-art" target="_blank" rel="noreferrer">
+                  <a href="https://github.com/Wbo-art/payment-integration-api.git" target="_blank" rel="noreferrer">
                     GitHub ↗
                   </a>
                 </div>
